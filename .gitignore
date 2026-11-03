@@ -1,0 +1,12 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration & environment variables
+.env
+.env.local
+.python-version
+
+# VS Code settings
+.vscode/
